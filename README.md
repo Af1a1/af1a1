@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 ![Aflal's github stats](https://github-readme-stats.vercel.app/api?username=af1a1&show_icons=true&theme=tokyonight)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=af1a1)](https://github.com/af1a1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=af1a1&theme=tokyonight)](https://github.com/af1a1/github-readme-stats)
 </br>
