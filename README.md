@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email
 - ⚡ Fun fact: ⚽🦾😆
 
+![Aflal's github stats](https://github-readme-stats.vercel.app/api?username=af1a1&show_icons=true)
