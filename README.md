@@ -1,4 +1,6 @@
-### Hi there I am Aflal 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am **AFlal** <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on open source projects on anything related to Web development App development 
