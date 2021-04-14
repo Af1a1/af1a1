@@ -32,7 +32,6 @@
 </div>
 <div align="center">
 ![Aflal's github stats](https://github-readme-stats.vercel.app/api?username=af1a1&show_icons=true&theme=tokyonight)
-</br>
 </div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=af1a1&theme=tokyonight)](https://github.com/af1a1/github-readme-stats)
 </br>-->
