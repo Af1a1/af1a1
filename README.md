@@ -30,8 +30,9 @@
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 </div>
-
+<div align="center">
 ![Aflal's github stats](https://github-readme-stats.vercel.app/api?username=af1a1&show_icons=true&theme=tokyonight)
 </br>
+</div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=af1a1&theme=tokyonight)](https://github.com/af1a1/github-readme-stats)
 </br>-->
