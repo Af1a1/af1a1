@@ -1,6 +1,5 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> I am AFlal <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
 
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on open source projects on anything related to Web development App development 
@@ -30,8 +29,9 @@
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 </div>
-<div align="center">
+
 ![Aflal's github stats](https://github-readme-stats.vercel.app/api?username=af1a1&show_icons=true&theme=tokyonight)
-</div>
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=af1a1&theme=tokyonight)](https://github.com/af1a1/github-readme-stats)
 </br>-->
+</div>
