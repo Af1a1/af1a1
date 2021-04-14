@@ -31,7 +31,7 @@
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <p>
-</mystack>
+<mystack>
 </p>
 </br>
 
