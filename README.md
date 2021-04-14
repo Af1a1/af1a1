@@ -4,7 +4,9 @@
 <h4>🌱 I’m currently learning MERN stack.</br>👯 I’m looking to collaborate on open source projects on anything related to Web development App development 
 </h4>
 </br>
+<p>
 <mystack>
+</p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
@@ -28,7 +30,9 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
+<p>
 </mystack>
+</p>
 </br>
 
 
