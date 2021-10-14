@@ -36,7 +36,7 @@
 </br>
 
 
-![Aflal's github stats](https://github-readme-stats.vercel.app/api?username=af1a1&show_icons=true&theme=tokyonight)
+<!-- ![Aflal's github stats](https://github-readme-stats.vercel.app/api?username=af1a1&show_icons=true&theme=tokyonight) -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=af1a1&theme=tokyonight)](https://github.com/af1a1/github-readme-stats)
 </br>-->
