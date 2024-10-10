@@ -1,7 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> I’m AFlal <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<h4>🌱 I’m currently learning MERN stack.</br>👯 I’m looking to collaborate on open source projects on anything related to Web development App development 
+<h4>🌱 I’m currently learning Next JS.</br>👯 I’m looking to collaborate on open source projects on anything related to Web development App development 
 </h4>
 </br>
 <p>
